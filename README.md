@@ -1,6 +1,6 @@
 # TypeTestApp - Typing Test Web App
 
-TypeTestApp is a simple and interactive typing test web application where users can test and improve their typing speed and accuracy. It is built using HTML, CSS, and JavaScript, making it lightweight and easy to use across different devices.
+TypeTestApp is a simple and interactive typing test web application where users can test and improve their typing speed and accuracy. It is built using HTML, CSS, and JavaScript, making it lightweight and easy to use.
 
 Live Demo: [https://typetestapp.netlify.app/](https://typetestapp.netlify.app/)
 
